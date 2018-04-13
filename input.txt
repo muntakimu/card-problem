@@ -1,0 +1,13 @@
+12
+
+sahan 4 1
+pranto 3 12
+alif 1 4
+mahi 1 5
+ami 2 11
+farah 3 5
+sumaiya 4 2
+parveen 2 8
+illus 1 12
+sharmin 3 6
+mohammad 1 13
